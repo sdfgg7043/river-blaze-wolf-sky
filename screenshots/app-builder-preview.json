@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "وصل المؤمل",
+      "hasCanvas": true,
+      "bodyTextLen": 490,
+      "bodyTextHash": "36fa91042cc3bfb82435b75352b1445901c791897e9dc9bfee9d04df0b6c373f",
+      "bodyTextPrefix": "المؤمل دفتر الوصولات · اكتب ثم اطبع المجموع ٠ طباعة PDF صورة مشا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "وصل المؤمل",
+      "hasCanvas": true,
+      "bodyTextLen": 541,
+      "bodyTextHash": "b35a5a7daeb7f40f197e0771acf396389c6de7ae3c89b909b8f7f6554850618a",
+      "bodyTextPrefix": "المؤمل دفتر الوصولات · اكتب ثم اطبع المجموع ٠ طباعة PDF صورة مشا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
